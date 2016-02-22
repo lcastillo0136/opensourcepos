@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'onixsoft_ps1';
-$db['default']['password'] = 'T@ygXAkkvTd(Lh6F@x(27@&2';
-$db['default']['database'] = 'onixsoft_ospos';
+$db['default']['hostname'] = '.';
+$db['default']['username'] = 'ps1';
+$db['default']['password'] = 'your_password';
+$db['default']['database'] = 'ospos';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = 'ospos_';
 $db['default']['pconnect'] = FALSE;
