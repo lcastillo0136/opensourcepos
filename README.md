@@ -15,3 +15,5 @@ password:pointofsale
 9. Enjoy
 
 A more extensive setup guide can be found at [this site](http://www.opensourceposguide.com/guide/gettingstarted/installation)
+
+Yo can test in this [Link](http://pos.onix-software.com)
