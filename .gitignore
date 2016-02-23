@@ -1,13 +1,10 @@
-node_modules
-bower_components
-application/config/email.php
 application/config/database.php
 *.patch
 patches/
-.idea/
 git-svn-diff.py
 *.bash
-.swp
+*.sh
+*.swp
 .buildpath
 .project
 .settings/*
@@ -15,5 +12,3 @@ git-svn-diff.py
 *.rej
 *.orig
 *~
-*.~
-*.log

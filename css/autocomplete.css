@@ -1,0 +1,47 @@
+.ac_results 
+{
+	padding: 3px;
+	border: 1px solid #ccc;
+	background-color: white;
+	overflow: hidden;
+	z-index: 99999;
+}
+
+.ac_results ul 
+{
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results li 
+{
+	margin: 0px;
+	padding: 7px 5px;
+	cursor: pointer;
+	display: block;
+	font: menu;
+	line-height: 16px;
+	overflow: hidden;
+}
+
+.ac_results li:hover {
+  background-color: #a94442;
+  color: #FFF;
+}
+
+.ac_loading 
+{
+	background: white url('../images/spinner_small.gif') right center no-repeat;
+}
+
+.ac_odd 
+{
+	background-color: #eee;
+}
+
+.ac_over 
+{
+}
